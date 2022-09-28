@@ -894,6 +894,7 @@ h6 { font-size: 16px; }
 	margin: 0px 0px 50px 0px;
 	float: left;
 	width: 33.3333%;
+	/* spacing for CONTACT ME ICONS */
 	/* padding-left: 50px; */
 }
 .arlo_tm_portfolio .portfolio_list ul li .inner{
