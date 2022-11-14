@@ -2116,3 +2116,10 @@ body.dark .arlo_tm_settings .cursor li .svg,
 	.arlo_tm_counter_section ul{margin: 0px;}
 	.arlo_tm_counter_section ul li{width: 100%;padding-left: 0px;}
 }	
+
+@media (max-width: 350px) {
+	.arlo_tm_hero {
+		margin-top: 50px;
+	}
+}
+
